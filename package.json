@@ -1,0 +1,17 @@
+{
+  "name": "hw7_movie_cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "allowScripts": {
+    "cypress@16.1.1": true
+  },
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}

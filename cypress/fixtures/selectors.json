@@ -1,0 +1,18 @@
+{
+  "mainPage": {
+    "weekday": ".page-nav__day",
+    "movies": ".movie",
+    "movieTitle": ".movie__title",
+    "movieSection": "section.movie",
+    "seanceTime": ".movie-seances__time",
+    "freeSeat": ".buying-scheme__chair_standart, .buying-scheme__chair_vip",
+    "acceptButton": ".acceptin-button"
+  },
+
+  "adminPage": {
+    "email": "[type='email']",
+    "password": "[type='password']",
+    "submit": "[type='submit']",
+    "filmID": "[data-film-id='139'] .conf-step__movie-title"
+  }
+}
