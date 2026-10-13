@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cypress:run": "cypress run --record --key 9d2dd159-14fa-458d-a1a5-39e826de63ea"
   },
   "author": "",
   "license": "ISC",
